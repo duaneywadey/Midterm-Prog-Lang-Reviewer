@@ -1,11 +1,5 @@
 # PRACTICAL DICTIONARY EXAMPLE
 
-* The work() function is defined. It increases the money by 100 and decreases the energy key by 100 in the current_status dictionary.
-
-* The eat() function is defined. It increases the energy by 100 and decreases the money key by 100 in the current_status dictionary.
-
-* The print_health_report() function is defined. It prints the key-value pairs in the current_status dictionary.
-
 ```python
 def work(current_status):
     current_status['money'] += 100
