@@ -1,4 +1,4 @@
-# Python Scope Example #1
+## 1.) Python Scope Example
 
 ```python
 def outer_func():
@@ -29,7 +29,7 @@ def outer_func():
 outer_func()
 ```
 
-## How does the code work?
+### How does the code work?
 
 * The outer_func() is called and the local variable var is initialized with the value 100.
 
@@ -39,7 +39,7 @@ outer_func()
 * The inner_func_three() is called. The value of var is decremented by 200.
 
 
-# Python Scope Example #2
+## 2.) Python Scope Example 
 
 ```python
 def outer_func():
@@ -68,7 +68,7 @@ def outer_func():
 outer_func()
 ```
 
-## How does the code work?
+### How does the code work?
 
 * The code defines a function called outer_func. A variable var is defined and assigned a list of numbers [1,2,3,4,5] inside the outer_func function. The code then prints a message 
 
