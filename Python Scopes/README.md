@@ -1,4 +1,4 @@
-## 1.) Python Scope Example
+# 1.) Python Scope Example
 
 ```python
 def outer_func():
@@ -39,7 +39,7 @@ outer_func()
 * The inner_func_three() is called. The value of var is decremented by 200.
 
 
-## 2.) Python Scope Example 
+# 2.) Python Scope Example 
 
 ```python
 def outer_func():
