@@ -1,6 +1,6 @@
 # Basic Array Exercises
 
-## Adding a new element inside an array from scratch. 
+## * Adding a new element inside an array from scratch. 
 
 ```java  
 public class addNewNumInArray {
@@ -53,7 +53,7 @@ public class addNewNumInArray {
 
 ```
 
-## Updating an element inside an array from scratch.  
+## * Updating an element inside an array from scratch.  
 
 ```java 
 public class updatingNumFromArray {
@@ -96,7 +96,7 @@ public class updatingNumFromArray {
 
 ```
 
-## Removing an element inside an array from scratch.  
+## * Removing an element inside an array from scratch.  
 
 ```java
 public class ArrayElementRemovalExample {
